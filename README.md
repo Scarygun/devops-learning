@@ -1,0 +1,1 @@
+"DevOpsni o'rganishni boshladim"
