@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Salomlashish
-	run: echo "Salom, bu mening birinchi avtomatik ishim!"
+        run: echo "Salom, bu mening birinchi avtomatik ishim!"
